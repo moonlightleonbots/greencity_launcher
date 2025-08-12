@@ -72,12 +72,12 @@ export default function FiveMServerLauncher() {
   // Simulate fetching news
   useEffect(() => {
     const mockNews: NewsItem[] = [
-      {
-        id: 1,
-        title: "Updates",
-        date: "11.08.2025",
-        content: "Der Server ist aktuell in der Entwicklung",
-      },
+    //  {
+      //  id: 1,
+       // title: "Updates",
+       // date: "11.08.2025",
+       // content: "Der Server ist aktuell in der Entwicklung",
+     // },
     ]
     setNews(mockNews)
   }, [])
@@ -99,15 +99,15 @@ export default function FiveMServerLauncher() {
   }, [])
 
   const handleLaunchGame = () => {
-    window.open("https://cfx.re/join/gybb9q", "_self")
+    window.open("https://cfx.re/join/mrvd9q", "_self")
   }
 
   const handleDiscord = () => {
-    window.open("https://discord.gg/elbfuhrt", "_blank")
+    window.open("https://discord.gg/pKEVCh5K63", "_blank")
   }
 
   const handleWebsite = () => {
-    window.open("https://elbfuhrtnetzwerk.nicklas187.de", "_blank")
+    window.open("https://greencityroleplay.nicklas187.de", "_blank")
   }
 
   const togglePlay = () => {
