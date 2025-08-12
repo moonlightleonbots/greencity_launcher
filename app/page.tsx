@@ -151,7 +151,7 @@ export default function FiveMServerLauncher() {
         <div className="absolute inset-0 bg-black/60" />
       </div>
 
-      <audio ref={audioRef} src="https://leondc1.isfucking.pro/63CDnI.mp3" loop onEnded={() => setIsPlaying(false)} />
+      <audio ref={audioRef} src="https://leondc1.isfucking.pro/2lK1aZ.mp3" loop onEnded={() => setIsPlaying(false)} />
 
       {/* Window Controls */}
       <div className="absolute top-4 right-4 flex gap-2 z-50">
