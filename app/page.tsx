@@ -166,7 +166,7 @@ export default function FiveMServerLauncher() {
           <div className="flex items-center gap-4">
             <div className="relative">
               <img
-                src="https://lsqhnoadkkitxumnlmlw.supabase.co/storage/v1/object/public/images/uploads/06f8adf3-6b5d-494f-8a50-2e828ef9145e/1754926016772-rki9p6vy05.png"
+                src="https://leondc1.isfucking.pro/LUFMjT.png"
                 alt="GreenCity Roleplay Logo"
                 className="h-12 w-12 rounded-lg backdrop-blur-sm bg-white/5 p-1"
                 style={{ filter: "blur(0.5px)" }}
