@@ -5,8 +5,8 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Elbfuhrt Netzwerk - FiveM Launcher",
-  description: "FiveM Server Launcher für das Elbfuhrt Netzwerk",
+  title: "GreenCity Roleplay - FiveM Launcher",
+  description: "FiveM Server Launcher für das GreenCity Roleplay",
   generator: "v0.dev",
 }
 
