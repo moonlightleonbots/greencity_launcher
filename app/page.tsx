@@ -213,7 +213,7 @@ export default function FiveMServerLauncher() {
                 </div>
 
                 <div className="bg-white/3 backdrop-blur-sm border border-white/5 rounded-2xl p-6 text-center">
-                  <div className="text-3xl font-bold text-white">Dev</div>
+                  <div className="text-3xl font-bold text-white">64</div>
                   <div className="text-white/70 text-sm uppercase tracking-wide">SLOTS</div>
                 </div>
 
@@ -223,7 +223,7 @@ export default function FiveMServerLauncher() {
                 </div>
 
                 <div className="bg-white/3 backdrop-blur-sm border border-white/5 rounded-2xl p-6 text-center">
-                  <div className="text-xl font-bold text-blue-400">DEV</div>
+                  <div className="text-xl font-bold text-blue-400">1.0</div>
                   <div className="text-white/70 text-sm uppercase tracking-wide">EDITION</div>
                 </div>
               </div>
