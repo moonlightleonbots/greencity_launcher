@@ -107,7 +107,7 @@ export default function FiveMServerLauncher() {
   }
 
   const handleWebsite = () => {
-    window.open("https://greencityroleplay.nicklas187.de", "_blank")
+    window.open("https://greencity.nicklas187.de", "_blank")
   }
 
   const togglePlay = () => {
