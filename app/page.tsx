@@ -167,13 +167,13 @@ export default function FiveMServerLauncher() {
             <div className="relative">
               <img
                 src="https://lsqhnoadkkitxumnlmlw.supabase.co/storage/v1/object/public/images/uploads/06f8adf3-6b5d-494f-8a50-2e828ef9145e/1754926016772-rki9p6vy05.png"
-                alt="Elbfuhrt Netzwerk Logo"
+                alt="GreenCity Roleplay Logo"
                 className="h-12 w-12 rounded-lg backdrop-blur-sm bg-white/5 p-1"
                 style={{ filter: "blur(0.5px)" }}
               />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-white backdrop-blur-sm">Elbfuhrt Netzwerk</h1>
+              <h1 className="text-2xl font-bold text-white backdrop-blur-sm">GreenCity Roleplay</h1>
             </div>
           </div>
         </div>
@@ -228,13 +228,14 @@ export default function FiveMServerLauncher() {
                 </div>
               </div>
 
-              <Button
-                onClick={handleLaunchGame}
-                className="w-full h-16 bg-blue-500 hover:bg-blue-600 text-white font-semibold text-xl rounded-2xl transition-all duration-200 transform hover:scale-[1.02] shadow-lg"
-              >
-                <Play className="mr-2 h-6 w-6" />
-                Spiel starten
-              </Button>
+<Button
+  onClick={handleLaunchGame}
+  className="w-full h-16 bg-green-500 hover:bg-green-600 text-white font-semibold text-xl rounded-2xl transition-all duration-200 transform hover:scale-[1.02] shadow-lg"
+>
+  <Play className="mr-2 h-6 w-6" />
+  Spiel starten
+</Button>
+
             </div>
 
             <div className="bg-black/5 backdrop-blur-xl border border-white/5 rounded-3xl p-4 space-y-3">
@@ -293,7 +294,7 @@ export default function FiveMServerLauncher() {
               {/* Track Info and Progress */}
               <div className="flex-1">
                 <div className="flex items-center justify-between text-sm text-white/70 mb-1">
-                  <span>Elbfuhrt Netzwerk Theme</span>
+                  <span>GreenCity Roleplay</span>
                   <div className="flex items-center gap-2">
                     <span>{formatTime(currentTime)}</span>
                     <span>/</span>
