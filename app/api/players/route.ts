@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 
 export async function GET() {
   try {
-    const response = await fetch("http://5.253.246.244:30120/players.json", {
+    const response = await fetch("http://2.58.113.233:30120/players.json", {
       headers: {
         "User-Agent": "FiveM-Launcher/1.0",
       },
